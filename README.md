@@ -1,0 +1,2 @@
+# Money-Management-Mobile-App-for-St-John-of-Gods
+Developed as a team project using Agile Methodologies. Worked as a team leader for a team of six  alongside developers from St John of Gods. The app that was built to allow disadvantaged people to  manage their money in a safe way. App was created in Android Studio with Java. APIs for text to speech,  speech to text, and scanning money features were implemented.
