@@ -1,0 +1,49 @@
+-- Author: Enoch Oppong
+-- Date: 12/02/21
+-- Time: 2 to 2:44
+-- AtomiX: Richard Zou, Ishaan Rawat, Jiyuan Liu, Jake Bolger and Rui Ranito (Team Two)
+-- Objective: Feedback from Clients about Safe|$pend
+
+
+Feedback
+- Might not need a login screen, suggested a face id recognition
+
+- Our suggested color was Teal and Green
+
+- David's Color: Irish Color & Jonathans: Pink and Blue Color. Might go with Jonathans color
+
+- David wants to keep a record of how much he is spending we intend to do this via camera
+
+- More icons and pictures. More text to speech
+
+- Make the balance change font bigger. Bigger font. Text Speech NEEDED!
+
+- Make each notes distinguishable, make sure its Irish money €
+
+- Keep a record of how much they are spending
+
+- Reset button is reset manually by the user
+
+
+
+
+
+
+Reset button
+undo reset
+show wallet
+scasnning wallet money
+scanning money error input
+speech recognition
+double scanning error
+speech recognition errors
+double scanning errors
+scanning money individual
+input money
+how much change to give
+shows amount to give
+
+
+-Use case done monday 
+-Finish error Flow + Design + Project plan
+-Thursday Finish project Plan
